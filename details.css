@@ -1,0 +1,39 @@
+.main{
+    background-color: wheat;
+    width: 1920px;
+    margin: 0 auto;
+    height: 1200px;
+    display: flex;
+    justify-self: start;
+    margin-top: 0px;
+    float: left;
+}
+.div1{
+    background-color: wheat;
+    width: 1200px;
+    margin: 0 auto;
+    height: 300px;
+    display: flex;
+    }
+.div2{  
+    width: 1160px;
+    height: 260px;
+    background-color: yellowgreen;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    }
+.c2{
+    background-color: cornsilk;
+    width: 1160px;
+    margin-top: 10px;
+    margin-left: 360px;
+    height: 1180px;
+    float: left;
+}
+.c21{
+    margin-top: 0px;
+    margin-left: 70px;
+}
+
+

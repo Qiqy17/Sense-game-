@@ -1,0 +1,62 @@
+/* 页头 */
+.header{
+    width: 1920px;
+    background-color:silver;
+    height: 80px;
+}
+.header a{
+    color:grey;
+}
+.header a:hover{
+    color:green;
+    font-size: 24px;
+}
+.header .left{
+    float: left;
+    height: 80px;
+    line-height: 80px;
+}
+.header .left .logo{
+    padding-top: 5px;
+    padding-left: 70px;
+    float: left;
+
+}
+.header .left nav{
+    float: left;
+}
+.header>div{
+    height: 80px;
+    line-height: 80px;
+}
+.header .right{
+    background-color:lightgray;
+    float: right;
+}
+.header .right nav ul li{
+    float: left;
+}
+.header .right nav ul li a{
+    display: block;
+    height: 80px;
+    padding: 0 150px;
+    text-decoration:none;
+}
+.active{
+    background-color: oldlace;
+    color:#fff;
+}
+
+/* 页脚 */
+.footer {
+    width: 1920px;
+    height: 300px;
+    padding-top: 10px;
+    background-color:rgba(21, 173, 21, 0.433);
+}
+.widget-copyright{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 80px;
+}
+/* 页脚 */
